@@ -1,10 +1,11 @@
-# ShareMe Social Media Application
-![ShareMe](https://i.ibb.co/8cLfj3X/image.png)
+# PhotoIt Social Media Photo Sharing Application
+![PhotoIt](https://user-images.githubusercontent.com/64892076/162806401-c3d4b2f3-2f11-419f-81f7-886ffc910fab.png)
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
 
-Using React, Tailwind & Sanity you'll learn how to build a Full Stack Social Media Application - from start to finish.
+## What is it?
+It is platform for graphic designers and artists to upload their work and get seen by people and get appereciated for their work.
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmasterypro.com/newsletter
+#### Made Using React, Tailwind & Sanity!!
+
+## Done by 
+[@shazm12](https://github.com/shazm12)
