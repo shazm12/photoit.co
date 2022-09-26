@@ -3,7 +3,7 @@
 
 
 ## What is it?
-It is platform for graphic designers and artists to upload their work and get seen by people and get appereciated for their work.
+It is platform for graphic designers and artists to upload their work and get seen by people and get appreciated for their work.
 
 #### Made Using React, Tailwind & Sanity!!
 
